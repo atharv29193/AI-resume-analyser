@@ -11,9 +11,7 @@ Smart ATS is a web application designed to help users improve their resumes by l
 
 ## Installation
 
-1. Clone the repository:
 
-git clone [https://github.com/SoumapriyoM/GenAi-Resume-Parse.git](https://github.com/SoumapriyoM/GenAi-Resume-Parse.git)
 
 
 2. Navigate to the project directory:
